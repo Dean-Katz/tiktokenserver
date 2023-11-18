@@ -137,7 +137,6 @@ llvmlite==0.41.1
 load-dotenv==0.1.0
 loadenv==0.1.1
 loguru==0.7.0
-lxml==4.9.2
 lz4==4.3.2
 Markdown==3.3.7
 markdown-it-py==2.2.0
@@ -261,7 +260,6 @@ quart-cors==0.6.0
 radian==0.6.8
 rapidfuzz==3.0.0
 rchitect==0.4.4
-readability-lxml==0.8.1
 redis==4.5.4
 regex==2023.5.5
 replicate==0.8.1
